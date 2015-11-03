@@ -1,2 +1,2 @@
 # ES6Examples
-Examples of ECMASCRIPT 2015
+Javascript examples of new features in ECMASCRIPT 2015 (ES6)
