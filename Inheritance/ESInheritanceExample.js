@@ -1,3 +1,4 @@
+/* Base class Bake*/
 class Bake {
 
   constructor(cake) {
@@ -9,6 +10,7 @@ class Bake {
   }
 }
 
+/* Child class which inherits the Bake base class */
 class BakeWithFlavour extends Bake {
   constructor(cake,flavour){
     super(cake);
